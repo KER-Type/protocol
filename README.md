@@ -1,3 +1,7 @@
+## Network architecture
+
+![Alt text](image.png?raw=true "Architecture")
+
 ## Clients messages :
 
 `CONNECTION -->`
