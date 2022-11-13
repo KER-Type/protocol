@@ -1,5 +1,3 @@
-# Protocol
-
 ## Clients messages :
 
 `CONNECTION -->`
